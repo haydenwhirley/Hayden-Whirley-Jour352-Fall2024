@@ -1,11 +1,12 @@
 h1 {
-    font-family: 
+    font-family: "Lora", serif;
 }
 
 img {
-    
+    width:auto
 }
 
 #topper {
-    
+    background-image:url(headshot.jpg);
+    background-size:cover;
 }
