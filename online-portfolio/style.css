@@ -2,18 +2,21 @@ body {
     background-color: #f6f4f1;
 }
 
+img {
+    width:75%;
+    border-radius:20%;
+}
+
 h1 {
     font-family: "Lora", serif;
     color: #423e3a;
+    font-size: 70px;
 }
 
 h2{
    color: #cb8e7e;
    font-family: "Times New Roman", Times, serif;
-}
-
-img {
-    width:75%
+    font-size: 40px
 }
 
 button{
@@ -24,18 +27,15 @@ button{
     font-size: 16px;
 }
 
-#topper {
-    background-image:url(headshot.jpg);
-    background-size:cover;
-}
-
 #navigation{
-    background-color: #423e3a
+    background-color: #423e3a;
+    text-align:center;
 }
 
 h3{
     text-align: center;
     color: #cb8e7e;
+    
 }
 
 h4{
@@ -43,4 +43,46 @@ h4{
     font-family: "Times New Roman", Times, serif;
     color: #cb8e7e;
     font-weight: bold;
+}
+
+.jobcol{
+    text-align:center;
+}
+
+.jobcompany{
+    color: #423e3a; 
+}
+
+.jobtitle{
+    color: #cb8e7e;
+    font-family: "Times New Roman", Times, serif;
+}
+
+.jobdate{
+    color: #423e3a;
+}
+
+.jobdescription{
+    color: #cb8e7e;
+    font-family: "Times New Roman", Times, serif;
+}
+
+ul{
+    color: #423e3a;
+    font-family: "Lora", serif;
+}
+
+.degree{
+    color: #423e3a;
+}
+
+.school{
+   color: #cb8e7e;
+    font-family: "Times New Roman", Times, serif;
+    font-weight: bold;
+    font-size: 12px;
+}
+
+.grad date{
+   color: #423e3a; 
 }
