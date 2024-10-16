@@ -1,0 +1,31 @@
+h1{
+    font-family: Georgia, serif;
+}
+
+.description{
+    font-size:13px;
+    color:blue;
+}
+
+.caption{
+    color:gray;
+}
+
+#headline{
+    color:red;
+}
+
+img{
+    width:100%;
+}
+
+.smallimage{
+    width:100px;
+    float:left;
+}
+
+#footer{
+    background-color: black;
+    color:white;
+    position: fixed;
+}
