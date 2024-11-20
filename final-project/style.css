@@ -1,0 +1,63 @@
+body{
+    background-color: black;
+}
+
+h1{
+    color: white;
+    text-transform: uppercase;
+    text-align: center;
+    font-family: "Anton", sans-serif;
+    font-weight: 400;
+}
+
+h2{
+    color: white;
+    text-transform: uppercase;
+    text-align: center;
+    font-family: "Anton", sans-serif;
+    font-weight: 400;
+    font-size: 20px;
+}
+
+h3{
+    color: gray;
+    text-align: center;
+    font-family: "Anton", sans-serif;
+    font-weight: 300;
+    font-size: 15px;
+}
+
+h4{
+    color: gray;
+    text-align: center;
+    font-family: "Anton", sans-serif;
+    font-weight: 300;
+    font-size: 15px; 
+}
+
+#topperimage{
+    border: 5px solid #FFFFFF;
+}
+
+p{
+    color: white;
+    font-family: "Times New Roman", Times, serif;
+    width:75%;
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+#DMphotos{
+    width: 50%;
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+#MWphoto{
+    width: 50%;
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+}
